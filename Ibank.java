@@ -1,7 +1,7 @@
 package interfaise;
 import java.util.*;
 
-public class implements Ibank {
+public class Ibank {
     private String name; // имя клиента
     private double summa_bank; // сумма вклада
 
